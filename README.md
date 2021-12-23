@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 my name is Viral Chauhan
 
 <!--
 **viral7chauhan/viral7chauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
